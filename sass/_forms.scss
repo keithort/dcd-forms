@@ -1,0 +1,35 @@
+input {
+  &[type="text"],
+  &[type="tel"],
+  &[type="email"],
+  &[type="number"] {
+    border: 1px solid $color-darkgrey;
+    border-radius: 2px;
+    margin: 2px;
+    padding: 2px 5px;
+    &.error {
+      border-color: $color-red;
+    }
+  }
+}
+.width-2chars {
+  width: 35px;
+}
+.width-3chars {
+  width: 40px;
+}
+.width-4chars {
+  width: 45px;
+}
+.width-5chars {
+  width: 60px;
+}
+.width-6chars {
+  width: 65px;
+}
+.width-7chars {
+  width: 70px;
+}
+.width-8chars {
+  width: 75px;
+}

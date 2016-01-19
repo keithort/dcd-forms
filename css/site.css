@@ -1,0 +1,99 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans|Roboto:400,400italic,700);
+input[type="text"], input[type="tel"], input[type="email"], input[type="number"] {
+  border: 1px solid #3c3c3c;
+  border-radius: 2px;
+  margin: 2px;
+  padding: 2px 5px; }
+  input[type="text"].error, input[type="tel"].error, input[type="email"].error, input[type="number"].error {
+    border-color: #CB1602; }
+
+.width-2chars {
+  width: 35px; }
+
+.width-3chars {
+  width: 40px; }
+
+.width-4chars {
+  width: 45px; }
+
+.width-5chars {
+  width: 60px; }
+
+.width-6chars {
+  width: 65px; }
+
+.width-7chars {
+  width: 70px; }
+
+.width-8chars {
+  width: 75px; }
+
+.center {
+  text-align: center; }
+
+.btn-green {
+  background-color: #82c32f;
+  border-radius: 3px;
+  color: #fff;
+  display: inline-block;
+  line-height: 3;
+  margin: 20px auto 0 auto;
+  padding: 0 20px;
+  text-decoration: none; }
+  .btn-green:hover {
+    background-color: #74ae2a;
+    transition: all .15s ease-in-out; }
+
+.required {
+  color: #CB1602; }
+
+html {
+  box-sizing: border-box; }
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit; }
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 85%;
+  line-height: 135%; }
+
+section.header {
+  background: url("../images/bg-header.jpg") 0 0 repeat-x;
+  height: 93px; }
+section.footer {
+  background: url("../images/bg-footer.jpg") 0 0 repeat-x;
+  height: 62px; }
+
+.header header {
+  height: 100%;
+  margin: 0 auto;
+  max-width: 750px;
+  position: relative; }
+  .header header .logo {
+    background-color: #fff;
+    display: inline-block;
+    height: 100%;
+    line-height: 0;
+    margin-left: 20px; }
+
+.footer footer {
+  color: #fff;
+  line-height: 35px;
+  margin: -27px auto 0 auto;
+  max-width: 750px;
+  padding-top: 27px;
+  text-align: center; }
+
+main {
+  background-color: #fff;
+  border: 1px solid #dcdde2;
+  border-radius: 5px;
+  margin: 0 auto;
+  max-width: 750px;
+  padding: 20px 40px;
+  position: relative; }
+
+/*# sourceMappingURL=site.css.map */

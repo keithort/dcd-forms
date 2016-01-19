@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Digital Closing Docs</title>
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/site.css">
+</head>
+<body>
+
+<section class="header">
+  <header>
+    <div class="logo"><img src="images/logo-FirstAm.png" alt=""></div>
+  </header>
+</section>
+<main>
+  <div class="center">
+    <p>Welcome to Digital Docs. This secure system will help guide you through some of the documents that are required in order to process your transaction effectively. We will start by reviewing information that we currently have as well as add any missing information we may need. Once all of the information is entered, we will then go document by document to collect any additional needed information plus offer a quick tutorial and explanation as to the document that you will be electronically signing at the end. Lastly, we will show you how you will be able to access these documents as well as others once your transaction has closed for any future needs.</p>
+    <p>Please review the following information. If there is an error that needs correcting, please enter the correct information. Any blank boxes with a red (*) next to them require your attention and need to have information entered into them.</p>
+    <p>Lets get started...</p>
+    <p><a href="page-2.shtml" class="btn-green">Next Page</a></p>
+  </div>
+</main>
+<section class="footer">
+  <footer>
+    &copy; All Rights Reserved | First American Title &amp; DigitalDocs | (877) 711-7226
+  </footer>
+</section>
+
+<script src="js/jquery-1.12.0.min.js"></script>
+<script src="js/site.js"></script>
+</body>
+</html>

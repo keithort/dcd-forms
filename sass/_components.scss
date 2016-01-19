@@ -1,0 +1,22 @@
+.center {
+  text-align: center;
+}
+
+.btn-green {
+  background-color: $color-green;
+  border-radius: 3px;
+  color: #fff;
+  display: inline-block;
+  line-height: 3;
+  margin: 20px auto 0 auto;
+  padding: 0 20px;
+  text-decoration: none;
+  &:hover {
+    background-color: darken($color-green, 5%);
+    transition: all .15s ease-in-out;
+  }
+}
+
+.required {
+  color: $color-red;
+}
