@@ -8,29 +8,48 @@ input[type="text"], input[type="tel"], input[type="email"], input[type="number"]
     border-color: #CB1602; }
 
 .width-2chars {
-  width: 35px; }
-
+  width: 25px; }
 .width-3chars {
   width: 40px; }
-
 .width-4chars {
   width: 45px; }
-
 .width-5chars {
   width: 60px; }
-
 .width-6chars {
   width: 65px; }
-
 .width-7chars {
   width: 70px; }
-
 .width-8chars {
   width: 75px; }
+.width-quarter {
+  width: 25%; }
+.width-half {
+  width: 50%; }
+.width-threequarter {
+  width: 75%; }
+
+label {
+  display: inline-block; }
+  label.text-right {
+    text-align: right; }
 
 .center {
   text-align: center; }
 
+.btn-blue {
+  background-color: #2f5b88;
+  border: 1px solid #3c3c3c;
+  border-radius: 10px;
+  color: #fff;
+  display: inline-block;
+  font-size: 65%;
+  line-height: 2;
+  margin: 0 0 0 20px;
+  padding: 0 10px;
+  text-decoration: none; }
+  .btn-blue:hover {
+    background-color: #36689b;
+    transition: all .15s ease-in-out; }
 .btn-green {
   background-color: #82c32f;
   border-radius: 3px;
@@ -58,7 +77,7 @@ html {
 body {
   font-family: "Roboto", sans-serif;
   font-size: 85%;
-  line-height: 135%; }
+  line-height: 1.5; }
 
 section.header {
   background: url("../images/bg-header.jpg") 0 0 repeat-x;

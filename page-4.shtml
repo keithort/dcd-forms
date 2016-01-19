@@ -18,7 +18,7 @@
   <p><strong>File Number 1234-56789</strong><br>
     <strong>Property Address: 1234 Main Street, Anywhere, CA 95002</strong></p>
   <p>&nbsp;</p>
-  <h3>Seller #1 Information</h3>
+  <h3>Seller #2 Information</h3>
   <p><input type="radio"> Mr. <input type="text" value="Johnathan Seller"> <span class="required">*</span><br>
     <label for="">Home Phone:</label> <input type="tel" class="width-3chars" value="916"> <input type="tel" class="width-8chars" value="999-0099"><br>
     <label for="">Mobile Phone:</label> <input type="tel" class="width-3chars" value="916"> <input type="tel" class="width-8chars" value="333-0123"><br>
@@ -30,7 +30,7 @@
     <label for="">Street Address:</label><input type="text" value="9999 Different Avenue"><br>
     <label for="">City</label> <input type="text" value="Anytown"> <label for="">State</label> <input type="text" class="width-2chars" value="CA"> <label for="">Zip Code</label> <input type="tel" class="width-5chars" value="90210"> </p>
 
-  <p class="center"><a href="page-4.shtml" class="btn-green">Next Page</a></p>
+  <p class="center"><a href="page-5.shtml" class="btn-green">Next Page</a></p>
 </main>
 <section class="footer">
   <footer>

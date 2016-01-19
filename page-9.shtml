@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Digital Closing Docs</title>
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/site.css">
+</head>
+<body>
+
+<section class="header">
+  <header>
+    <div class="logo"><img src="images/logo-FirstAm.png" alt=""></div>
+  </header>
+</section>
+<main>
+  <h2>Seller(s) Information Request</h2>
+  <p><strong>File Number 1234-56789</strong><br>
+    <strong>Property Address: 1234 Main Street, Anywhere, CA 95002</strong></p>
+  <p>&nbsp;</p>
+  <h3>Tell us about your Associations(s)</h3>
+  <p><strong>Homeowner's Association</strong><br>
+    <label for="" class="width-quarter">Name:</label> <input type="text" value="Josh Strzalko HOA"><br>
+    <label for="" class="width-quarter">Address:</label> <input type="text" value="4000 Central Florida Blvd, Orlando, FL 32816"><br>
+    <label for="" class="width-quarter">Phone Number:</label> <input type="tel" value="407-823-2000"><br>
+    <label for="" class="width-quarter">Monthly Dues:</label> <input type="tel" value="212"></p>
+
+  <p class="center"><a href="page-10.shtml" class="btn-green">Next Page</a></p>
+</main>
+<section class="footer">
+  <footer>
+    &copy; All Rights Reserved | First American Title &amp; DigitalDocs | (877) 711-7226
+  </footer>
+</section>
+
+<script src="js/jquery-1.12.0.min.js"></script>
+<script src="js/site.js"></script>
+</body>
+</html>

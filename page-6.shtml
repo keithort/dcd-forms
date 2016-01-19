@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Digital Closing Docs</title>
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/site.css">
+</head>
+<body>
+
+<section class="header">
+  <header>
+    <div class="logo"><img src="images/logo-FirstAm.png" alt=""></div>
+  </header>
+</section>
+<main>
+  <h2>Seller(s) Information Request</h2>
+  <p><strong>File Number 1234-56789</strong><br>
+    <strong>Property Address: 1234 Main Street, Anywhere, CA 95002</strong></p>
+  <p>&nbsp;</p>
+  <h3>Tell us about your loan(s)</h3>
+  <p><strong>Do you have any of the following types of loans on the property?</strong> (Check all that apply)<br>
+  <input type="checkbox"> <label for="">2nd loan</label><br>
+  <input type="checkbox"> <label for="">Private party loan</label><br>
+  <input type="checkbox"> <label for="">Line of credit</label></p>
+
+  <p class="center"><a href="page-7.shtml" class="btn-green">Next Page</a></p>
+</main>
+<section class="footer">
+  <footer>
+    &copy; All Rights Reserved | First American Title &amp; DigitalDocs | (877) 711-7226
+  </footer>
+</section>
+
+<script src="js/jquery-1.12.0.min.js"></script>
+<script src="js/site.js"></script>
+</body>
+</html>
