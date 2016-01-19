@@ -14,16 +14,8 @@
   </header>
 </section>
 <main>
-  <h2>Seller(s) Information Request</h2>
-  <p><strong>File Number 1234-56789</strong><br>
-    <strong>Property Address: 1234 Main Street, Anywhere, CA 95002</strong></p>
-  <p>&nbsp;</p>
-  <h3>Does this transaction involve a Tax Deferred Exchange?</h3>
-  <p>
-    <input type="radio"> <label for="">Yes</label><br>
-    <input type="radio"> <label for="">No</label>
-  </p>
-  <p class="center"><a href="page-11.shtml" class="btn-green">Next Page</a></p>
+  <h2>Success</h2>
+  <p class="center"><img src="images/giphy.gif" alt=""></p>
 </main>
 <section class="footer">
   <footer>

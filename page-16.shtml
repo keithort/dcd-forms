@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Digital Closing Docs</title>
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/site.css">
+</head>
+<body>
+
+<section class="header">
+  <header>
+    <div class="logo"><img src="images/logo-FirstAm.png" alt=""></div>
+  </header>
+</section>
+<main>
+  <h2>Almost finished...</h2>
+  <p class="center">Thank you for taking your time to complete these important documents. They will now be submitted to <strong>First American Title</strong>. These documents plus the documents you will sign at closing will remain on this system for your future reference should you need to access them. You will receive email updates any time a document is added to the system. If you do not want tos tore your documents here for future access, please check the box below to opt out. For more information about the DigitalDocs system, please <a href="">click here</a> to watch a short video on the system.</p>
+  <p>    
+    <label for="" class="width-quarter">Email address</label> <input type="email" value="josh@eleet-tech.com" disabled><br>
+    <label for="" class="width-quarter">Create a password</label> <input type="password"><br>
+    <label for="" class="width-quarter">Confirm your password</label> <input type="password"></p>
+  <p><input type="checkbox"><label for="">Please DO NOT store my documents in the DigitalDocs system</label></p>
+  <p class="center"><a href="page-17.shtml" class="btn-green">Submit</a></p>
+</main>
+<section class="footer">
+  <footer>
+    &copy; All Rights Reserved | First American Title &amp; DigitalDocs | (877) 711-7226
+  </footer>
+</section>
+
+<script src="js/jquery-1.12.0.min.js"></script>
+<script src="js/site.js"></script>
+</body>
+</html>

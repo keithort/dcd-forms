@@ -1,14 +1,16 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans|Roboto:400,400italic,700);
-input[type="text"], input[type="tel"], input[type="email"], input[type="number"] {
+input[type="text"], input[type="tel"], input[type="email"], input[type="number"], input[type="password"] {
   border: 1px solid #3c3c3c;
   border-radius: 2px;
   margin: 2px;
   padding: 2px 5px; }
-  input[type="text"].error, input[type="tel"].error, input[type="email"].error, input[type="number"].error {
+  input[type="text"].error, input[type="tel"].error, input[type="email"].error, input[type="number"].error, input[type="password"].error {
     border-color: #CB1602; }
+input[type="checkbox"], input[type="radio"] {
+  margin-right: 5px; }
 
 .width-2chars {
-  width: 25px; }
+  width: 30px; }
 .width-3chars {
   width: 40px; }
 .width-4chars {
@@ -46,10 +48,13 @@ label {
   line-height: 2;
   margin: 0 0 0 20px;
   padding: 0 10px;
-  text-decoration: none; }
+  text-decoration: none;
+  vertical-align: top; }
   .btn-blue:hover {
     background-color: #36689b;
     transition: all .15s ease-in-out; }
+  .btn-blue + .btn-blue {
+    margin-left: 5px; }
 .btn-green {
   background-color: #82c32f;
   border-radius: 3px;
@@ -114,5 +119,8 @@ main {
   max-width: 750px;
   padding: 20px 40px;
   position: relative; }
+
+blockquote {
+  padding: 10px 40px; }
 
 /*# sourceMappingURL=site.css.map */

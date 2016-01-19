@@ -14,9 +14,13 @@
     margin: 0 0 0 20px;
     padding: 0 10px;
     text-decoration: none;
+    vertical-align: top;
     &:hover {
       background-color: lighten($color-blue, 5%);
       transition: all .15s ease-in-out;
+    }
+    + .btn-blue {
+      margin-left: 5px;
     }
   }
   &-green {

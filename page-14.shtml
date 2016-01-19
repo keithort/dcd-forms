@@ -18,12 +18,11 @@
   <p><strong>File Number 1234-56789</strong><br>
     <strong>Property Address: 1234 Main Street, Anywhere, CA 95002</strong></p>
   <p>&nbsp;</p>
-  <h3>Does this transaction involve a Tax Deferred Exchange?</h3>
-  <p>
-    <input type="radio"> <label for="">Yes</label><br>
-    <input type="radio"> <label for="">No</label>
-  </p>
-  <p class="center"><a href="page-11.shtml" class="btn-green">Next Page</a></p>
+  <h3>Please tell us the date and location of your birth</h3>
+  <p><label for="" class="width-quarter">Date of Birth:</label> <input type="tel" class="width-2chars" value="11"> <input type="tel" class="width-2chars" value="22"> <input type="tel" class="width-2chars" value="74"></p>
+  <p><label for="" class="width-quarter">Place of Birth:</label> <input type="text" value="Denver, CO" class="width-quarter"></p>
+  <p><label for="" class="width-quarter">US resident since</label> <input type="tel" value="1974" class="width-4chars">
+  <p class="center"><a href="page-15.shtml" class="btn-green">Next Page</a></p>
 </main>
 <section class="footer">
   <footer>

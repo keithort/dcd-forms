@@ -2,7 +2,8 @@ input {
   &[type="text"],
   &[type="tel"],
   &[type="email"],
-  &[type="number"] {
+  &[type="number"],
+  &[type="password"] {
     border: 1px solid $color-darkgrey;
     border-radius: 2px;
     margin: 2px;
@@ -11,10 +12,14 @@ input {
       border-color: $color-red;
     }
   }
+  &[type="checkbox"],
+  &[type="radio"] {
+    margin-right: 5px;
+  }
 }
 .width {
   &-2chars {
-    width: 25px;
+    width: 30px;
   }
   &-3chars {
     width: 40px;

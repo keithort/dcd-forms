@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Digital Closing Docs</title>
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/site.css">
+</head>
+<body>
+
+<section class="header">
+  <header>
+    <div class="logo"><img src="images/logo-FirstAm.png" alt=""></div>
+  </header>
+</section>
+<main>
+  <h2>Statement of Information</h2>
+  <p><strong>File Number 1234-56789</strong><br>
+    <strong>Property Address: 1234 Main Street, Anywhere, CA 95002</strong></p>
+  <p>&nbsp;</p>
+  <blockquote>
+    <p>NEXT... In order to expedite the completion of your transaction, we are requesting that you complete the following “Statement of Information” form. We are not unnecessarily interested in your personal affairs, however we have been asked to insure the title to real property in which you are interested and that requires a title search.</p>
+    <p>In searching your title, we may encounter judgments, bankruptcies, divorces, and/or income tax liens against persons with the same or similar names to yours. Such matters cloud the title to your property unless eliminated.</p>
+    <p>In order to eliminate items in the chain of title that are not applicable to you (for example: a judgement lien against a party with a similar/same name), we may contact appropriate parties to help us eliminate matters regarding your title. We are in accordance with your privacy policy when we do so.</p>
+    <p>The information you provide, and your spouse or domestic partner if you are married, or in a domestic partnership, can promptly eliminate all matters not directly affecting you or the property being searched, avoid any delay in your transaction and provide you with the most efficient service possible.</p>
+    <p>Thank you for your cooperation in furnishing us with the necessary information and please be assured that your information is confidential and used only for the purpose which we have stated. </p>
+    <p>The next few screens will guide you through this process...</p>
+    <p class="center"><a href="page-13.shtml" class="btn-green">Next Page</a></p>
+  </blockquote>
+</main>
+<section class="footer">
+  <footer>
+    &copy; All Rights Reserved | First American Title &amp; DigitalDocs | (877) 711-7226
+  </footer>
+</section>
+
+<script src="js/jquery-1.12.0.min.js"></script>
+<script src="js/site.js"></script>
+</body>
+</html>
