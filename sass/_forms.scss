@@ -17,6 +17,10 @@ input {
     margin-right: 5px;
   }
 }
+textarea {
+  @extend input[type="text"]
+}
+
 .width {
   &-2chars {
     width: 30px;
@@ -39,14 +43,35 @@ input {
   &-8chars {
     width: 75px;
   }
+  &-eigth {
+    display: inline-block;
+    vertical-align: top;
+    width: 12%;
+  }
   &-quarter {
-    width: 25%;
+    display: inline-block;
+    vertical-align: top;
+    width: 24%;
+  }
+  &-thirds {
+    display: inline-block;
+    vertical-align: top;
+    width: 31%;    
   }
   &-half {
-    width: 50%;
+    display: inline-block;
+    vertical-align: top;
+    width: 47.5%;
   }
   &-threequarter {
-    width: 75%;
+    display: inline-block;
+    vertical-align: top;
+    width: 74%;
+  }
+  &-seveneigths {
+    display: inline-block;
+    vertical-align: top;
+    width: 87%;
   }
 }
   

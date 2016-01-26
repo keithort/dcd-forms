@@ -1,10 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans|Roboto:400,400italic,700);
-input[type="text"], input[type="tel"], input[type="email"], input[type="number"], input[type="password"] {
+input[type="text"], textarea, input[type="tel"], input[type="email"], input[type="number"], input[type="password"] {
   border: 1px solid #3c3c3c;
   border-radius: 2px;
   margin: 2px;
   padding: 2px 5px; }
-  input[type="text"].error, input[type="tel"].error, input[type="email"].error, input[type="number"].error, input[type="password"].error {
+  input[type="text"].error, textarea.error, input[type="tel"].error, input[type="email"].error, input[type="number"].error, input[type="password"].error {
     border-color: #CB1602; }
 input[type="checkbox"], input[type="radio"] {
   margin-right: 5px; }
@@ -23,12 +23,30 @@ input[type="checkbox"], input[type="radio"] {
   width: 70px; }
 .width-8chars {
   width: 75px; }
+.width-eigth {
+  display: inline-block;
+  vertical-align: top;
+  width: 12%; }
 .width-quarter {
-  width: 25%; }
+  display: inline-block;
+  vertical-align: top;
+  width: 24%; }
+.width-thirds {
+  display: inline-block;
+  vertical-align: top;
+  width: 31%; }
 .width-half {
-  width: 50%; }
+  display: inline-block;
+  vertical-align: top;
+  width: 47.5%; }
 .width-threequarter {
-  width: 75%; }
+  display: inline-block;
+  vertical-align: top;
+  width: 74%; }
+.width-seveneigths {
+  display: inline-block;
+  vertical-align: top;
+  width: 87%; }
 
 label {
   display: inline-block; }

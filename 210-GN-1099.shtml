@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Digital Closing Docs</title>
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/site.css">
+</head>
+<body>
+
+<section class="header">
+  <header>
+    <div class="logo"><img src="images/logo-FirstAm.png" alt=""></div>
+  </header>
+</section>
+<main>
+  <h2>CERTIFICATION FOR NO INFORMATION REPORTING ON THE SALE OR EXCHANGE OF A PRINCIPAL RESIDENCE</h2>
+  <p>This form may be completed by the seller of a principal residence. This information is necessary to determine whether the sale or exchange should be reported to the seller, and to the Internal Revenue Service on Form 1099-S, Proceeds From Real Estate Transactions. If the seller properly completes Parts I and III, and makes a "true" response to assurances (1) through (6) in Part II (or a “not applicable” response to assurance (6)), no information reporting to the seller or to the Service will be required for that seller. The term "seller" includes each owner of the residence that is sold or exchanged. Thus, if a residence has more than one owner, a real estate reporting person must either obtain a certification from each owner (whether married or not) or file an information return and furnish a payee statement for any owner that does not make the certification. </p>
+  <h3>Part I. Seller Information</h3>
+  <p><label for="">Full Name</label><br>
+    <input type="text" class="width-half"></p>
+  <p><label for="">Address or legal description (including city, state, and ZIP code) of residence being sold or exchanged)</label><br>
+    <textarea class="width-half" rows="5"></textarea></p>
+  <p><label for="">Taxpayer identification Number (TIN)</label><br>
+    <input type="text" class="width-half"></p>
+
+  <h3>Part II. Seller Assurances</h3>
+  <div>
+    <div class="width-quarter">
+      <div class="width-thirds"><strong>True</strong></div>
+      <div class="width-thirds"><strong>False</strong></div>
+    </div>
+  </div>
+  <div>
+    <div class="width-quarter">
+      <div class="width-thirds"><input type="checkbox" value="true"></div>
+      <div class="width-thirds"><input type="checkbox" value="false"></div>
+    </div>
+    <div class="width-threequarter">
+      (1) I owned and used the residence as my principal residence for periods aggregating 2 years or more during the 5-year period ending on the date of the sal eor exchange of the residence
+    </div>
+  </div>
+  <div>
+    <div class="width-quarter">
+      <div class="width-thirds"><input type="checkbox" value="true"></div>
+      <div class="width-thirds"><input type="checkbox" value="false"></div>
+    </div>
+    <div class="width-threequarter">
+      (2) I have not sold or exchanged another principal residence during the 2-year period ending on the date of the sale or exchange of the residence
+    </div>
+  </div>
+  <div>
+    <div class="width-quarter">
+      <div class="width-thirds"><input type="checkbox" value="true"></div>
+      <div class="width-thirds"><input type="checkbox" value="false"></div>
+    </div>
+    <div class="width-threequarter">
+      (3) I (or my spouse or former spouse, if I was married at any time during the period beginning after May 6, 1997, and ending today) have not used any portion of the residence for business or rental purposes after May 6, 1997.
+    </div>
+  </div>
+  <div>
+    <div class="width-quarter">
+      <div class="width-thirds"><input type="checkbox" value="true"></div>
+      <div class="width-thirds"><input type="checkbox" value="false"></div>
+    </div>
+    <div class="width-threequarter">
+      (4) At least one of the following three statements applies:
+      <p>The sale or exchange is of the entire residence for $250,000 or less.</p>
+      <p><strong>OR</strong></p>
+      <p>I am married, the sale or exchange is of the entire residence for $500,000 or less, and the gain on the sale or exchange of the entire residence is $250,000 or less</p>
+      <p><strong>OR</strong></p>
+      <p>I am married, the sale or exchange is of the entire residence for $500,000 or less, and (a) I intend to file a joint return for the year of the sale or exchange, (b) my spouse also used the residence as his or her principal residence for periods aggregating 2 years or more during the 50year period ending on the date of the sale or exchange of the residence, and (c) my spouse also has not sold or exchanged another principal residence during the 2-year period ending on the date of the sale or exchange of the principal residence.</p>
+    </div>
+  </div>
+  <div>
+    <div class="width-quarter">
+      <div class="width-thirds"><strong>True</strong></div>
+      <div class="width-thirds"><strong>False</strong></div>
+      <div class="width-thirds"><strong>N/A</strong></div>
+    </div>
+  </div>
+  <div>
+    <div class="width-quarter">
+      <div class="width-thirds"><input type="checkbox" value="true"></div>
+      <div class="width-thirds"><input type="checkbox" value="false"></div>
+      <div class="width-thirds"><input type="checkbox" value="not-applicable"></div>
+    </div>
+    <div class="width-threequarter">
+      (6) During the 5-year period ending on the date of the sale or exchange of the residence, I did not acquire the residence in an exchange to which section 1031 of the Internal Revenue Code applied
+    </div>
+  </div>
+
+  <h3>Part III. Seller Certification</h3>
+  <p>Under penalties of perjury , I certifiy that all the above information is true as of the end of the day of the sale or exchange.</p>
+  <div class="width-half center">
+    <input type="text" class="width-threequarter"><br>
+    Signature of Seller
+  </div>
+  <div class="width-half center">
+    <input type="text" class="width-threequarter"><br>
+    Date
+  </div>
+  <p><strong>* This certification must be retained by the closing agent for 4 years after the year of the sale or exchange *</strong></p>
+
+  <p><strong>Seller's Forwarding Address:</strong><br>
+    <label for="">Street Address:</label><input type="text" value="9999 Different Avenue"><br>
+    <label for="">City</label> <input type="text" value="Anytown"> <label for="">State</label> <input type="text" class="width-2chars" value="CA"> <label for="">Zip Code</label> <input type="tel" class="width-5chars" value="90210"><br>
+    <label for="">Settlement date:</label> <input type="text" class="width-8chars"><br>
+    <label for="">Sales price:</label> <input type="text" class="width-8chars"><br>
+    <label for="">File number:</label> <input type="text" class="width-8chars"><br>
+    <label for="">Seller Names:</label> <input type="text" class="width-8chars"><br>
+    <label for="">Portion attributable to this seller:</label> <input type="text" class="width-3chars">%</p>
+
+</main>
+<section class="footer">
+  <footer>
+    &copy; All Rights Reserved | First American Title &amp; DigitalDocs | (877) 711-7226
+  </footer>
+</section>
+
+<script src="js/jquery-1.12.0.min.js"></script>
+<script src="js/site.js"></script>
+</body>
+</html>

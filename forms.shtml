@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Digital Closing Docs</title>
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/site.css">
+</head>
+<body>
+
+<section class="header">
+  <header>
+    <div class="logo"><img src="images/logo-FirstAm.png" alt=""></div>
+  </header>
+</section>
+<main>
+  <div class="center">
+    <ul>
+      <li><a href="210-GN-1099.shtml">210 GN 1099 Certification Seller</a></li>
+      <li><a href="">550 MD FA Privacy Policy Notice</a></li>
+      <li><a href="">1099-S 2015</a></li>
+      <li><a href="">Affidavid of Residence</a></li>
+      <li><a href="">All Clear</a></li>
+      <li><a href="">Wire Authorization Form - Seller</a></li>
+    </ul>    
+  </div>
+</main>
+<section class="footer">
+  <footer>
+    &copy; All Rights Reserved | First American Title &amp; DigitalDocs | (877) 711-7226
+  </footer>
+</section>
+
+<script src="js/jquery-1.12.0.min.js"></script>
+<script src="js/site.js"></script>
+</body>
+</html>

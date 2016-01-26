@@ -14,7 +14,7 @@
   </header>
 </section>
 <main>
-  <h2>Almost finished...</h2>
+  <h2 class="center">Almost finished...</h2>
   <p class="center">Thank you for taking your time to complete these important documents. They will now be submitted to <strong>First American Title</strong>. These documents plus the documents you will sign at closing will remain on this system for your future reference should you need to access them. You will receive email updates any time a document is added to the system. If you do not want tos tore your documents here for future access, please check the box below to opt out. For more information about the DigitalDocs system, please <a href="">click here</a> to watch a short video on the system.</p>
   <p>    
     <label for="" class="width-quarter">Email address</label> <input type="email" value="josh@eleet-tech.com" disabled><br>
