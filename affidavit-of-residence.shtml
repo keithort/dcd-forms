@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Digital Closing Docs</title>
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/site.css">
+</head>
+<body>
+
+<section class="header">
+  <header>
+    <div class="logo"><img src="images/logo-FirstAm.png" alt=""></div>
+  </header>
+</section>
+<main>
+  <h2>Certification of Exemption from Withholding Upon Disposition of Maryland Real Estate Affidavit of Residence or Principal Residence</h2>
+  <p>Based on the certification below, Transferor claims exemption from the tax withholding requirements of §10-912 of the Tax-General Article, Annotated Code of Maryland. Section 10-912 provides that certain tax payments must be withheld and paid when a deed or other instrument that effects a change in ownership of real property is presented for recordation. The requirements of §10-912 do not apply when a transferor provides a certification of Maryland residence or certification that the transferred property is the transferor’s principal residence.</p>
+  <h3>1. Transferor Information</h3>
+  <p><label for="">Name of Transferor</label> <input type="text" class="width-quarter"></p>
+  <h3>2. Reasons for Exemption</h3>
+  <div>
+    <div class="width-quarter">
+      <div class="width-seveneigths"><label for="">Resident Status</label></div>
+      <div class="width-eigth"><input type="checkbox"></div>
+    </div>
+    <div class="width-threequarter">
+      I, Transferor, am a resident of the state of Maryland
+    </div>
+  </div>
+  <div>
+    <div class="width-quarter">
+      <div class="width-seveneigths"></div>
+      <div class="width-eigth"><input type="checkbox"></div>
+    </div>
+    <div class="width-threequarter">
+      Transferor is a resident entity as defined in Code of Maryland Regulations (COMAR)03.04.12.02B(11), I am an agent of Transferor, and I have authority to sign this document on Transferor’s behalf.
+    </div>
+  </div>
+  <div>
+    <div class="width-quarter">
+      <div class="width-seveneigths">Principal Residence</div>
+      <div class="width-eigth"><input type="checkbox"></div>
+    </div>
+    <div class="width-threequarter">
+      Although I am no longer a resident of the State of Maryland, the Property is my principal residence as defined in IRC 121 and is currently recorded as such with the State Department of Assessments and Taxation.
+    </div>
+  </div>
+  <p>Under penalty of perjury, I certify that I have examined this declaration and that, to the best of my knowledge, it is true, correct, and complete.</p>
+  <h3>3a. Individual Transferors</h3>
+  <div>
+    <div class="width-half center">
+      <input type="text" class="width-threequarter"><br>
+      Witness
+    </div>
+    <div class="width-half center">
+      <input type="text" class="width-threequarter"><br>
+      Name
+    </div>
+    <div class="width-half center">
+      &nbsp;
+    </div>    
+    <div class="width-half center">
+      <input type="text" class="width-threequarter"><br>
+      Signature
+    </div>
+  </div>
+  <h3>3b. Entity Transferors</h3>
+  <div>
+    <div class="width-half center">
+      <input type="text" class="width-threequarter"><br>
+      Witness/Attest
+    </div>
+    <div class="width-half center">
+      <input type="text" class="width-threequarter"><br>
+      Name of Entity
+    </div>
+    <div class="width-half center">
+      &nbsp;
+    </div>    
+    <div class="width-half center">
+      <input type="text" class="width-threequarter"><br>
+      By
+    </div>
+    <div class="width-half center">
+      &nbsp;
+    </div>    
+    <div class="width-half center">
+      <input type="text" class="width-threequarter"><br>
+      Name
+    </div>
+    <div class="width-half center">
+      &nbsp;
+    </div>    
+    <div class="width-half center">
+      <input type="text" class="width-threequarter"><br>
+      Title
+    </div>
+  </div>
+</main>
+<section class="footer">
+  <footer>
+    &copy; All Rights Reserved | First American Title &amp; DigitalDocs | (877) 711-7226
+  </footer>
+</section>
+
+<script src="js/jquery-1.12.0.min.js"></script>
+<script src="js/site.js"></script>
+</body>
+</html>

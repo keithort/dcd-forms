@@ -14,16 +14,11 @@
   </header>
 </section>
 <main>
-  <div class="center">
-    <ul>
-      <li><a href="210-GN-1099.shtml">210 GN 1099 Certification Seller</a></li>
-      <li><a href="">550 MD FA Privacy Policy Notice</a></li>
-      <li><a href="">1099-S 2015</a></li>
-      <li><a href="">Affidavid of Residence</a></li>
-      <li><a href="">All Clear</a></li>
-      <li><a href="">Wire Authorization Form - Seller</a></li>
-    </ul>    
-  </div>
+  <ul>
+    <li><a href="210-GN-1099.shtml">210 GN 1099 Certification Seller</a></li>
+    <li><a href="affidavit-of-residence.shtml">Affidavit of Residence</a></li>
+    <li><a href="wire-authorization.shtml">Wire Authorization Form - Seller</a></li>
+  </ul>
 </main>
 <section class="footer">
   <footer>

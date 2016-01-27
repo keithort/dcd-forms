@@ -15,6 +15,7 @@ input {
   &[type="checkbox"],
   &[type="radio"] {
     margin-right: 5px;
+    margin-top: 6px;
   }
 }
 textarea {
@@ -43,7 +44,7 @@ textarea {
   &-8chars {
     width: 75px;
   }
-  &-eigth {
+  &-eighth {
     display: inline-block;
     vertical-align: top;
     width: 12%;
@@ -68,10 +69,10 @@ textarea {
     vertical-align: top;
     width: 74%;
   }
-  &-seveneigths {
+  &-seveneighths {
     display: inline-block;
     vertical-align: top;
-    width: 87%;
+    width: 85%;
   }
 }
   
