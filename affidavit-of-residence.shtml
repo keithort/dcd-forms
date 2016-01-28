@@ -21,8 +21,8 @@
   <h3>2. Reasons for Exemption</h3>
   <div>
     <div class="width-quarter">
-      <div class="width-seveneigths"><label for="">Resident Status</label></div>
-      <div class="width-eigth"><input type="checkbox"></div>
+      <div class="width-seveneighths"><label for="">Resident Status</label></div>
+      <div class="width-eighth"><input type="checkbox"></div>
     </div>
     <div class="width-threequarter">
       I, Transferor, am a resident of the state of Maryland
@@ -30,8 +30,8 @@
   </div>
   <div>
     <div class="width-quarter">
-      <div class="width-seveneigths"></div>
-      <div class="width-eigth"><input type="checkbox"></div>
+      <div class="width-seveneighths"></div>
+      <div class="width-eighth"><input type="checkbox"></div>
     </div>
     <div class="width-threequarter">
       Transferor is a resident entity as defined in Code of Maryland Regulations (COMAR)03.04.12.02B(11), I am an agent of Transferor, and I have authority to sign this document on Transferor’s behalf.
@@ -39,8 +39,8 @@
   </div>
   <div>
     <div class="width-quarter">
-      <div class="width-seveneigths">Principal Residence</div>
-      <div class="width-eigth"><input type="checkbox"></div>
+      <div class="width-seveneighths">Principal Residence</div>
+      <div class="width-eighth"><input type="checkbox"></div>
     </div>
     <div class="width-threequarter">
       Although I am no longer a resident of the State of Maryland, the Property is my principal residence as defined in IRC 121 and is currently recorded as such with the State Department of Assessments and Taxation.
