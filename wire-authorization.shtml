@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Digital Closing Docs</title>
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/site.css">
+</head>
+<body>
+
+<section class="header">
+  <header>
+    <div class="logo"><img src="images/logo-FirstAm.png" alt=""></div>
+  </header>
+</section>
+<main>
+  <h2>Wire Authorization</h2>
+  <p>
+    <label for="">Name:</label> <input type="text" class="width-half"><br>
+    <label for="">File:</label> <input type="text" class="width-half"><br>
+    <label for="">Street Address:</label><input type="text" value="9999 Different Avenue" class="width-half"><br>
+    <label for="">City</label> <input type="text" value="Anytown"> <label for="">State</label> <input type="text" class="width-2chars" value="CA"> <label for="">Zip Code</label> <input type="tel" class="width-5chars" value="90210"></p>
+  <div>
+    <div class="width-eighth"><input type="checkbox"></div>
+    <div class="width-seveneighths">I hereby authorize Continental Title Group (the “Company”) to wire funds from the proceeds of the above-referenced Settlement (the “Proceeds”). I acknowledge that the Company is charged a fee to transmit the Proceeds via wire.</div>
+  </div>
+  <div>
+    <div class="width-eighth"><input type="checkbox"></div>
+    <div class="width-seveneighths">I have read the following and authorize the Company to deduct <strong>$36.00</strong> per wire from the Proceeds to cover the cost and administration of wiring the account listed below:</div>
+  </div>
+  <div>
+    <div class="width-eighth"></div>
+    <div class="width-seveneighths">
+      <label for="" class="text-right width-quarter">Name on account:</label> <input type="text" class="width-quarter"><br>
+      <label for="" class="text-right width-quarter">Bank name:</label> <input type="text" class="width-quarter"><br>
+      <label for="" class="text-right width-quarter">Address:</label> <input type="text" class="width-quarter"><br>
+      <label for="" class="text-right width-quarter">ABA #:</label> <input type="text" class="width-quarter"><br>
+      <label for="" class="text-right width-quarter">Account #:</label> <input type="text" class="width-quarter">
+    </div>
+  </div>
+  <div>
+    <div class="width-eighth"><input type="checkbox"></div>
+    <div class="width-seveneighths">I agree to the $36.00 (Thirty-Six Dollar) Fee per wire for the above-listed accounts.</div>
+  </div>
+  <div>
+    <div class="width-eighth"><input type="checkbox"></div>
+    <div class="width-seveneighths">I acknowledge that if the Proceeds exceed the amount received by wire from the buyers and the buyers’ lender, then our Proceeds will be wired 24 hours after the buyers’/buyers’ lender’s check is deposited. Alternatively, I understand that I have been given the opportunity to receive an Escrow Account Check at closing for my Proceeds.</div>
+  </div>
+</main>
+<section class="footer">
+  <footer>
+    &copy; All Rights Reserved | First American Title &amp; DigitalDocs | (877) 711-7226
+  </footer>
+</section>
+
+<script src="js/jquery-1.12.0.min.js"></script>
+<script src="js/site.js"></script>
+</body>
+</html>
